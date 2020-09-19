@@ -1,2 +1,2 @@
-# angrybird
-this is a game I recreated.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
